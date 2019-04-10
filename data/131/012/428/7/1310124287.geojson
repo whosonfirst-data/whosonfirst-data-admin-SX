@@ -1,0 +1,69 @@
+{
+  "id": 1310124287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.06517,18.03102,-63.06517,18.03102",
+    "geom:latitude":18.03102,
+    "geom:longitude":-63.06517,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Welgeleden",
+    "gn:country_code":"SX",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3513101,
+    "gn:latitude":18.03102,
+    "gn:longitude":-63.06517,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Welgeleden",
+    "gn:population":0,
+    "gn:timezone":"America/Lower_Princes",
+    "iso:country":"SX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Welgelegen",
+        "Welgeleden"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632185,
+        85678229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3513101
+    },
+    "wof:country":"SX",
+    "wof:geomhash":"8654663b33838d60aa9991e53e18eded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632185,
+            "locality_id":1310124287,
+            "region_id":85678229
+        }
+    ],
+    "wof:id":1310124287,
+    "wof:lastmodified":1537701520,
+    "wof:name":"Welgeleden",
+    "wof:parent_id":85678229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.06517,
+    18.03102,
+    -63.06517,
+    18.03102
+],
+  "geometry": {"coordinates":[-63.06517,18.03102],"type":"Point"}
+}

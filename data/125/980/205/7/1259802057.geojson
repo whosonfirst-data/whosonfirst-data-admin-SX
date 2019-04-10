@@ -1,0 +1,63 @@
+{
+  "id": 1259802057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.02009,18.05385,-63.02009,18.05385",
+    "geom:latitude":18.05385,
+    "geom:longitude":-63.02009,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Oyster Pond",
+    "gn:country_code":"SX",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7504626,
+    "gn:latitude":18.05385,
+    "gn:longitude":-63.02009,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Oyster Pond",
+    "gn:population":0,
+    "gn:timezone":"America/Lower_Princes",
+    "iso:country":"SX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7504626
+    },
+    "wof:country":"SX",
+    "wof:geomhash":"5349d8296bd762833b95ba1f2c97e0f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "locality_id":1259802057,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259802057,
+    "wof:lastmodified":1536896304,
+    "wof:name":"Oyster Pond",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.02009,
+    18.05385,
+    -63.02009,
+    18.05385
+],
+  "geometry": {"coordinates":[-63.02009,18.05385],"type":"Point"}
+}

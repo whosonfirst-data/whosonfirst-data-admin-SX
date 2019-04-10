@@ -1,0 +1,65 @@
+{
+  "id": 1344071519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.05667,18.04174,-63.05667,18.04174",
+    "geom:latitude":18.04174,
+    "geom:longitude":-63.05667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Saunders",
+    "gn:country_code":"SX",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3513261,
+    "gn:latitude":18.04174,
+    "gn:longitude":-63.05667,
+    "gn:modification_date":"2009-02-24",
+    "gn:name":"Saunders",
+    "gn:population":0,
+    "gn:timezone":"America/Lower_Princes",
+    "iso:country":"SX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632185,
+        85678229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3513261
+    },
+    "wof:country":"SX",
+    "wof:geomhash":"a4137342dcb14420c4ed04529c9e1d68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632185,
+            "locality_id":1344071519,
+            "region_id":85678229
+        }
+    ],
+    "wof:id":1344071519,
+    "wof:lastmodified":1536858232,
+    "wof:name":"Saunders",
+    "wof:parent_id":85678229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.05667,
+    18.04174,
+    -63.05667,
+    18.04174
+],
+  "geometry": {"coordinates":[-63.05667,18.04174],"type":"Point"}
+}

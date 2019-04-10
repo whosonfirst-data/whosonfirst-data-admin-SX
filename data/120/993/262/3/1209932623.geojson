@@ -1,0 +1,63 @@
+{
+  "id": 1209932623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.03586,18.05554,-63.03586,18.05554",
+    "geom:latitude":18.05554,
+    "geom:longitude":-63.03586,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Rockland",
+    "gn:country_code":"SX",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3513332,
+    "gn:latitude":18.05554,
+    "gn:longitude":-63.03586,
+    "gn:modification_date":"2015-03-26",
+    "gn:name":"Rockland",
+    "gn:population":0,
+    "gn:timezone":"America/Lower_Princes",
+    "iso:country":"SX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3513332
+    },
+    "wof:country":"SX",
+    "wof:geomhash":"42f2882216e82e7b4baa27720d2415c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "locality_id":1209932623,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209932623,
+    "wof:lastmodified":1536392058,
+    "wof:name":"Rockland",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.03586,
+    18.05554,
+    -63.03586,
+    18.05554
+],
+  "geometry": {"coordinates":[-63.03586,18.05554],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1259793717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.06001,18.03109,-63.06001,18.03109",
+    "geom:latitude":18.03109,
+    "geom:longitude":-63.06001,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"The Villa",
+    "gn:country_code":"SX",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3513166,
+    "gn:latitude":18.03109,
+    "gn:longitude":-63.06001,
+    "gn:modification_date":"2009-02-24",
+    "gn:name":"The Villa",
+    "gn:population":0,
+    "gn:timezone":"America/Lower_Princes",
+    "iso:country":"SX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632185,
+        85678229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3513166
+    },
+    "wof:country":"SX",
+    "wof:geomhash":"c58e3ad022fc0764c9534191d7330715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632185,
+            "locality_id":1259793717,
+            "region_id":85678229
+        }
+    ],
+    "wof:id":1259793717,
+    "wof:lastmodified":1536908630,
+    "wof:name":"The Villa",
+    "wof:parent_id":85678229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.06001,
+    18.03109,
+    -63.06001,
+    18.03109
+],
+  "geometry": {"coordinates":[-63.06001,18.03109],"type":"Point"}
+}

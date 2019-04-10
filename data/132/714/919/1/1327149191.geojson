@@ -1,0 +1,67 @@
+{
+  "id": 1327149191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.07058,18.0535,-63.07058,18.0535",
+    "geom:latitude":18.0535,
+    "geom:longitude":-63.07058,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"St. Peters",
+    "gn:country_code":"SX",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3513306,
+    "gn:latitude":18.0535,
+    "gn:longitude":-63.07058,
+    "gn:modification_date":"2015-03-26",
+    "gn:name":"St. Peters",
+    "gn:population":0,
+    "gn:timezone":"America/Lower_Princes",
+    "iso:country":"SX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saint Peter",
+        "St. Peters"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3513306
+    },
+    "wof:country":"SX",
+    "wof:geomhash":"0494e884a90d11662846bc20e6ec07e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "locality_id":1327149191,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327149191,
+    "wof:lastmodified":1537701520,
+    "wof:name":"St. Peters",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.07058000000001,
+    18.0535,
+    -63.07058000000001,
+    18.0535
+],
+  "geometry": {"coordinates":[-63.07058000000001,18.0535],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209425073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.05916,18.03808,-63.05916,18.03808",
+    "geom:latitude":18.03808,
+    "geom:longitude":-63.05916,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mary's Fancy",
+    "gn:country_code":"SX",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3513490,
+    "gn:latitude":18.03808,
+    "gn:longitude":-63.05916,
+    "gn:modification_date":"2015-03-26",
+    "gn:name":"Mary\u2019s Fancy",
+    "gn:population":0,
+    "gn:timezone":"America/Lower_Princes",
+    "iso:country":"SX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3513490
+    },
+    "wof:country":"SX",
+    "wof:geomhash":"34a072614da8de6a5ce88a509de9fe69",
+    "wof:hierarchy":[
+        {
+            "country_id":85632185,
+            "locality_id":1209425073
+        }
+    ],
+    "wof:id":1209425073,
+    "wof:lastmodified":1536287406,
+    "wof:name":"Mary's Fancy",
+    "wof:parent_id":85632185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.05916,
+    18.03808,
+    -63.05916,
+    18.03808
+],
+  "geometry": {"coordinates":[-63.05916,18.03808],"type":"Point"}
+}

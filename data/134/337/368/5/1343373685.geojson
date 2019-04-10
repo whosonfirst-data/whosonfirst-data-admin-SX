@@ -1,0 +1,64 @@
+{
+  "id": 1343373685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.06164,18.02429,-63.06164,18.02429",
+    "geom:latitude":18.02429,
+    "geom:longitude":-63.06164,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Rabbit Hill",
+    "gn:country_code":"SX",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6985431,
+    "gn:latitude":18.02429,
+    "gn:longitude":-63.06164,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Rabbit Hill",
+    "gn:population":0,
+    "gn:timezone":"America/Lower_Princes",
+    "iso:country":"SX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6985431
+    },
+    "wof:country":"SX",
+    "wof:geomhash":"2efc9326f37cd742edc8b8788bdb3475",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632185,
+            "locality_id":1343373685,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343373685,
+    "wof:lastmodified":1536870233,
+    "wof:name":"Rabbit Hill",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.06164,
+    18.02429,
+    -63.06164,
+    18.02429
+],
+  "geometry": {"coordinates":[-63.06164,18.02429],"type":"Point"}
+}

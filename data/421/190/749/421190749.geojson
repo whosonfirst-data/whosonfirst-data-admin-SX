@@ -1,0 +1,98 @@
+{
+  "id": 421190749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.017385,18.04798,-63.017385,18.04798",
+    "geom:latitude":18.04798,
+    "geom:longitude":-63.017385,
+    "iso:country":"SX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:arm_x_preferred":[
+        "\u053c\u0578\u0578\u0582\u0580 \u054a\u0580\u056b\u0576\u057d\u0565\u057d \u0554\u0578\u0582\u0561\u0569\u0580"
+    ],
+    "name:dut_x_preferred":[
+        "Lower Prince's Quarter"
+    ],
+    "name:eng_x_preferred":[
+        "Lower Prince's Quarter"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0578\u0578\u0582\u0580 \u054a\u0580\u056b\u0576\u057d\u0565\u057d \u0554\u0578\u0582\u0561\u0569\u0580"
+    ],
+    "name:nld_x_preferred":[
+        "Lower Prince's Quarter"
+    ],
+    "name:nno_x_preferred":[
+        "Lower Prince's Quarter"
+    ],
+    "name:pol_x_preferred":[
+        "Lower Prince's Quarter"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0443\u044d\u0440-\u041f\u0440\u0438\u043d\u0441-\u041a\u0443\u043e\u0442\u0435\u0440"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Lower Prince's Quarter",
+    "qs:name_adm0":"Sint Maarten",
+    "qs:name_adm1":null,
+    "qs:photos":227,
+    "qs:photos_1k":46,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":227,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1120311,
+    "qs:woe_adm0":56558058,
+    "qs:woe_id":151936,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":54,
+    "wof:belongsto":[
+        102191575,
+        85673879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":151936,
+        "qs:id":1120311,
+        "wd:id":"Q2002890"
+    },
+    "wof:country":"SX",
+    "wof:created":1459009668,
+    "wof:geomhash":"5632046898f9d23782d90487d7e2bc9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "locality_id":421190749,
+            "region_id":85673879
+        }
+    ],
+    "wof:id":421190749,
+    "wof:lastmodified":1527716393,
+    "wof:name":"Lower Prince's Quarter",
+    "wof:parent_id":85673879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.017385,
+    18.04798,
+    -63.017385,
+    18.04798
+],
+  "geometry": {"coordinates":[-63.017385,18.04798],"type":"Point"}
+}

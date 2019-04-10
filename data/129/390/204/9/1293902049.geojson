@@ -1,0 +1,70 @@
+{
+  "id": 1293902049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.03075,18.03277,-63.03075,18.03277",
+    "geom:latitude":18.03277,
+    "geom:longitude":-63.03075,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Upper Prince's Quarter",
+    "gn:country_code":"SX",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3513144,
+    "gn:latitude":18.03277,
+    "gn:longitude":-63.03075,
+    "gn:modification_date":"2015-03-27",
+    "gn:name":"Upper Prince\u2019s Quarter",
+    "gn:population":0,
+    "gn:timezone":"America/Lower_Princes",
+    "iso:country":"SX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boven Prinsen",
+        "Boven Prinsen Kwartier",
+        "Upper Prince\u2019s Quarter"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632185,
+        85678229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3513144
+    },
+    "wof:country":"SX",
+    "wof:geomhash":"e58b712759cb6dfb4de8d2fbf921b8dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632185,
+            "locality_id":1293902049,
+            "region_id":85678229
+        }
+    ],
+    "wof:id":1293902049,
+    "wof:lastmodified":1537701520,
+    "wof:name":"Upper Prince's Quarter",
+    "wof:parent_id":85678229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.03075,
+    18.03277000000001,
+    -63.03075,
+    18.03277000000001
+],
+  "geometry": {"coordinates":[-63.03075,18.03277000000001],"type":"Point"}
+}

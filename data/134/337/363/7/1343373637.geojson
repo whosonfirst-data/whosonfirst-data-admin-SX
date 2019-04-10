@@ -1,0 +1,65 @@
+{
+  "id": 1343373637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.07985,18.03955,-63.07985,18.03955",
+    "geom:latitude":18.03955,
+    "geom:longitude":-63.07985,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Almond Grove Estate",
+    "gn:country_code":"SX",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6985409,
+    "gn:latitude":18.03955,
+    "gn:longitude":-63.07985,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Almond Grove Estate",
+    "gn:population":0,
+    "gn:timezone":"America/Lower_Princes",
+    "iso:country":"SX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632185,
+        85678229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6985409
+    },
+    "wof:country":"SX",
+    "wof:geomhash":"eb9b46458ad3fb2be07738807605e7b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632185,
+            "locality_id":1343373637,
+            "region_id":85678229
+        }
+    ],
+    "wof:id":1343373637,
+    "wof:lastmodified":1536870304,
+    "wof:name":"Almond Grove Estate",
+    "wof:parent_id":85678229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.07985,
+    18.03955,
+    -63.07985,
+    18.03955
+],
+  "geometry": {"coordinates":[-63.07985,18.03955],"type":"Point"}
+}

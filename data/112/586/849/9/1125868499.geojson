@@ -1,0 +1,92 @@
+{
+  "id": 1125868499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.06542,18.03868,-63.06542,18.03868",
+    "geom:latitude":18.03868,
+    "geom:longitude":-63.06542,
+    "gn:gn_country":"SX",
+    "gn:gn_fcode":"PPLL",
+    "gn:gn_pop":8467,
+    "gn:population":8467,
+    "iso:country":"SX",
+    "lbl:latitude":18.03868,
+    "lbl:longitude":-63.06542,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Cul de Sac"
+    ],
+    "name:eng_x_preferred":[
+        "Cul de Sac"
+    ],
+    "name:fre_x_preferred":[
+        "Cul de Sac"
+    ],
+    "name:pol_x_preferred":[
+        "Cul de Sac"
+    ],
+    "name:unk_x_variant":[
+        "Duth Cul de Sac"
+    ],
+    "qs_pg:aaroncc":"SX",
+    "qs_pg:gn_country":"SX",
+    "qs_pg:gn_fcode":"PPLL",
+    "qs_pg:gn_id":3513794,
+    "qs_pg:gn_pop":8467,
+    "qs_pg:name":"Cul de Sac",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":95824,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632185,
+        85678229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3513794,
+        "qs_pg:id":95824,
+        "wd:id":"Q2630366"
+    },
+    "wof:country":"SX",
+    "wof:created":1497294166,
+    "wof:geomhash":"573c73447f80bfbb6a44ea1cd7945705",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632185,
+            "locality_id":1125868499,
+            "region_id":85678229
+        }
+    ],
+    "wof:id":1125868499,
+    "wof:lastmodified":1514505809,
+    "wof:name":"Cul de Sac",
+    "wof:parent_id":85678229,
+    "wof:placetype":"locality",
+    "wof:population":8467,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-sx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.06542,
+    18.03868,
+    -63.06542,
+    18.03868
+],
+  "geometry": {"coordinates":[-63.06542,18.03868],"type":"Point"}
+}

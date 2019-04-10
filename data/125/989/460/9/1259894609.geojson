@@ -1,0 +1,63 @@
+{
+  "id": 1259894609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.02332,18.04303,-63.02332,18.04303",
+    "geom:latitude":18.04303,
+    "geom:longitude":-63.02332,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tamarind Hill",
+    "gn:country_code":"SX",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6985399,
+    "gn:latitude":18.04303,
+    "gn:longitude":-63.02332,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Tamarind Hill",
+    "gn:population":0,
+    "gn:timezone":"America/Lower_Princes",
+    "iso:country":"SX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6985399
+    },
+    "wof:country":"SX",
+    "wof:geomhash":"160ae1b2946795f444accd99e98c1d01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "locality_id":1259894609,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259894609,
+    "wof:lastmodified":1536763339,
+    "wof:name":"Tamarind Hill",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.02332,
+    18.04303,
+    -63.02332,
+    18.04303
+],
+  "geometry": {"coordinates":[-63.02332,18.04303],"type":"Point"}
+}
