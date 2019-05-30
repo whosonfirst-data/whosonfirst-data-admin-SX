@@ -7,7 +7,7 @@
     "edtf:cessation":"open",
     "edtf:inception":"1964",
     "geom:area":0.000059,
-    "geom:area_square_m":699380.619361,
+    "geom:area_square_m":699380.61936,
     "geom:bbox":"-63.1203425701,18.0374320882,-63.0966786741,18.0451942432",
     "geom:latitude":18.04141,
     "geom:longitude":-63.1107,
@@ -121,7 +121,7 @@
         "wd:id":"Q723325"
     },
     "wof:country":"SX",
-    "wof:geomhash":"69b5a63a79742d91f82a08a5c3d9911f",
+    "wof:geomhash":"f7ad0f0aee9c9367789b205b18425a64",
     "wof:hierarchy":[
         {
             "campus_id":102553765,
@@ -133,7 +133,7 @@
         }
     ],
     "wof:id":102553765,
-    "wof:lastmodified":1559252789,
+    "wof:lastmodified":1559254024,
     "wof:name":"Prinses Juliana International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",
@@ -145,7 +145,7 @@
     ]
 },
   "bbox": [
-    -63.120342570109614,
+    -63.12034257010961,
     18.03743208822866,
     -63.09667867412532,
     18.04519424319473

@@ -31,7 +31,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191575
+        102191575,
+        85632185,
+        85678229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +44,15 @@
     "wof:hierarchy":[
         {
             "continent_id":102191575,
-            "country_id":-1,
+            "country_id":85632185,
             "locality_id":1327149191,
-            "region_id":-1
+            "region_id":85678229
         }
     ],
     "wof:id":1327149191,
-    "wof:lastmodified":1537701520,
+    "wof:lastmodified":1559254181,
     "wof:name":"St. Peters",
-    "wof:parent_id":-1,
+    "wof:parent_id":85678229,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sx",
     "wof:superseded_by":[],
