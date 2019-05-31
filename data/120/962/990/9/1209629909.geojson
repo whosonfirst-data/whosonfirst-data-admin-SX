@@ -27,7 +27,9 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632185
+        102191575,
+        85632185,
+        85678229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,14 +39,16 @@
     "wof:geomhash":"a9c896cff028da7785a3bb93762e393e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85632185,
-            "locality_id":1209629909
+            "locality_id":1209629909,
+            "region_id":85678229
         }
     ],
     "wof:id":1209629909,
-    "wof:lastmodified":1536281224,
+    "wof:lastmodified":1559254180,
     "wof:name":"Saint James",
-    "wof:parent_id":85632185,
+    "wof:parent_id":85678229,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sx",
     "wof:superseded_by":[],

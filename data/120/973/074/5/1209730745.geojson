@@ -27,7 +27,8 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
-        85632185
+        85632185,
+        85678229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,13 +41,13 @@
             "continent_id":102191575,
             "country_id":85632185,
             "locality_id":1209730745,
-            "region_id":-1
+            "region_id":85678229
         }
     ],
     "wof:id":1209730745,
-    "wof:lastmodified":1536378911,
+    "wof:lastmodified":1559254179,
     "wof:name":"Little Bay",
-    "wof:parent_id":-1,
+    "wof:parent_id":85678229,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sx",
     "wof:superseded_by":[],

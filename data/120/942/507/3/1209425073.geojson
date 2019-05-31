@@ -27,7 +27,9 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632185
+        102191575,
+        85632185,
+        85678229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,14 +39,16 @@
     "wof:geomhash":"34a072614da8de6a5ce88a509de9fe69",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85632185,
-            "locality_id":1209425073
+            "locality_id":1209425073,
+            "region_id":85678229
         }
     ],
     "wof:id":1209425073,
-    "wof:lastmodified":1536287406,
+    "wof:lastmodified":1559254043,
     "wof:name":"Mary's Fancy",
-    "wof:parent_id":85632185,
+    "wof:parent_id":85678229,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sx",
     "wof:superseded_by":[],
