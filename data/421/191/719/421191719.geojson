@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-63.050537,18.040441,-63.050537,18.040441",
     "geom:latitude":18.040441,
     "geom:longitude":-63.050537,
@@ -24,11 +25,32 @@
     "name:cat_x_preferred":[
         "Judici"
     ],
+    "name:cat_x_variant":[
+        "judici"
+    ],
     "name:ces_x_preferred":[
         "Soudn\u00ed \u0159\u00edzen\u00ed"
     ],
+    "name:ces_x_variant":[
+        "soudn\u00ed \u0159\u00edzen\u00ed"
+    ],
+    "name:dan_x_preferred":[
+        "retsag"
+    ],
     "name:deu_x_preferred":[
         "Gerichtsverhandlung"
+    ],
+    "name:ell_x_preferred":[
+        "\u03b4\u03af\u03ba\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "trial"
+    ],
+    "name:epo_x_preferred":[
+        "proceso"
+    ],
+    "name:eus_x_preferred":[
+        "Epaiketa"
     ],
     "name:fas_x_preferred":[
         "\u0645\u062d\u0627\u06a9\u0645\u0647"
@@ -39,8 +61,17 @@
     "name:fra_x_preferred":[
         "Proc\u00e8s"
     ],
+    "name:fra_x_variant":[
+        "affaire judiciaire"
+    ],
     "name:heb_x_preferred":[
         "\u05de\u05e9\u05e4\u05d8"
+    ],
+    "name:hun_x_preferred":[
+        "per"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0580\u0564\u0561\u0580\u0561\u0564\u0561\u057f\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
     ],
     "name:isl_x_preferred":[
         "R\u00e9ttarh\u00f6ld"
@@ -48,8 +79,14 @@
     "name:ita_x_preferred":[
         "Processo"
     ],
+    "name:ita_x_variant":[
+        "processo"
+    ],
     "name:jpn_x_preferred":[
         "\u30c8\u30e9\u30a4\u30a2\u30eb"
+    ],
+    "name:kbp_x_preferred":[
+        "T\u0254m k\u0269h\u028ah\u028at\u028a"
     ],
     "name:kor_x_preferred":[
         "\uc7ac\ud310"
@@ -57,11 +94,23 @@
     "name:lit_x_preferred":[
         "Teismo pos\u0117dis"
     ],
+    "name:lit_x_variant":[
+        "teismo pos\u0117dis"
+    ],
     "name:mkd_x_preferred":[
         "\u0421\u0443\u0434\u0435\u045a\u0435"
     ],
+    "name:mkd_x_variant":[
+        "\u0441\u0443\u0434\u0435\u045a\u0435"
+    ],
     "name:nld_x_preferred":[
         "Rechtszitting"
+    ],
+    "name:nld_x_variant":[
+        "rechtszitting"
+    ],
+    "name:nob_x_preferred":[
+        "rettsforhandling"
     ],
     "name:nor_x_preferred":[
         "Rettssak"
@@ -69,8 +118,14 @@
     "name:pol_x_preferred":[
         "Rozprawa s\u0105dowa"
     ],
+    "name:pol_x_variant":[
+        "rozprawa s\u0105dowa"
+    ],
     "name:por_x_preferred":[
         "Processo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0441\u0443\u0434\u0435\u0431\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441"
     ],
     "name:scn_x_preferred":[
         "Giudizziu"
@@ -78,14 +133,32 @@
     "name:spa_x_preferred":[
         "Proceso jurisdiccional"
     ],
+    "name:spa_x_variant":[
+        "juicio"
+    ],
     "name:srp_x_preferred":[
         "\u0421\u0443\u0452\u0435\u045a\u0435"
+    ],
+    "name:srp_x_variant":[
+        "\u0441\u0443\u0452\u0435\u045a\u0435"
     ],
     "name:swe_x_preferred":[
         "R\u00e4tteg\u00e5ng"
     ],
+    "name:swe_x_variant":[
+        "r\u00e4tteg\u00e5ng"
+    ],
     "name:tur_x_preferred":[
         "Duru\u015fma"
+    ],
+    "name:tur_x_variant":[
+        "duru\u015fma"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0430\u0432\u043e\u0441\u0443\u0434\u0434\u044f"
+    ],
+    "name:yue_x_preferred":[
+        "\u5be9\u5224"
     ],
     "name:zho_x_preferred":[
         "\u5ba1\u5224"
@@ -133,7 +206,7 @@
         }
     ],
     "wof:id":421191719,
-    "wof:lastmodified":1527716387,
+    "wof:lastmodified":1563919749,
     "wof:name":"Trial",
     "wof:parent_id":85678229,
     "wof:placetype":"locality",
