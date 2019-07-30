@@ -39,6 +39,15 @@
     "name:arg_x_preferred":[
         "Sint Maarten"
     ],
+    "name:ast_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u06cc\u0646\u062a \u0645\u0627\u0631\u062a\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Sint-Marten"
+    ],
     "name:bak_x_preferred":[
         "\u0421\u0438\u043d\u0442-\u041c\u0430\u0440\u0442\u0435\u043d"
     ],
@@ -59,6 +68,12 @@
         "\u0421\u0438\u043d\u0442 \u041c\u0430\u0440\u0442\u0435\u043d"
     ],
     "name:cat_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:cdo_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:ceb_x_preferred":[
         "Sint Maarten"
     ],
     "name:ces_x_preferred":[
@@ -132,6 +147,9 @@
     "name:gom_x_preferred":[
         "\u0938\u093f\u0902\u091f \u092e\u093e\u0930\u094d\u091f\u0947\u0928"
     ],
+    "name:hak_x_preferred":[
+        "Sint Maarten"
+    ],
     "name:hbs_x_preferred":[
         "Sint Maarten"
     ],
@@ -143,6 +161,12 @@
     ],
     "name:hye_x_preferred":[
         "\u054d\u056b\u0576\u057f \u0544\u0561\u0561\u0580\u057f\u0565\u0576"
+    ],
+    "name:hye_x_variant":[
+        "\u054d\u056b\u0576\u0569 \u0544\u0561\u0561\u0580\u057f\u0565\u0576"
+    ],
+    "name:ina_x_preferred":[
+        "Sint Maarten"
     ],
     "name:ind_x_preferred":[
         "Sint Maarten"
@@ -197,6 +221,9 @@
     "name:msa_x_preferred":[
         "Sint Maarten"
     ],
+    "name:myv_x_preferred":[
+        "\u0421\u0438\u043d\u0442-\u041c\u0430\u0440\u0442\u0435\u043d"
+    ],
     "name:nld_x_preferred":[
         "Sint Maarten (land)",
         "Sint Maarten"
@@ -206,7 +233,6 @@
         "St. Maarten",
         "St Maarten",
         "Sint Maarten Eiland",
-        "Sint Maarten",
         "Eilandgebied Sint Maarten",
         "Land Sint Maarten"
     ],
@@ -244,6 +270,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0438\u043d\u0442-\u041c\u0430\u0440\u0442\u0435\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Sint Maarten"
     ],
     "name:slk_x_preferred":[
         "Sint Maarten"
@@ -295,6 +324,9 @@
     ],
     "name:war_x_preferred":[
         "Sint Maarten"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8377\u5c5e\u5723\u9a6c\u4e01"
     ],
     "name:zho_x_preferred":[
         "\u8377\u5c6c\u8056\u99ac\u4e01"
@@ -416,7 +448,7 @@
         "eng",
         "nld"
     ],
-    "wof:lastmodified":1559254199,
+    "wof:lastmodified":1564173082,
     "wof:name":"Sint Maarten",
     "wof:parent_id":85632185,
     "wof:placetype":"region",
