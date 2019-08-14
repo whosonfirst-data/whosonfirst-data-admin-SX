@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "autonomous country"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SM"
+    ],
     "lbl:latitude":18.04235,
     "lbl:longitude":-63.058383,
     "mps:latitude":18.04235,
@@ -448,7 +451,7 @@
         "eng",
         "nld"
     ],
-    "wof:lastmodified":1564173082,
+    "wof:lastmodified":1565736765,
     "wof:name":"Sint Maarten",
     "wof:parent_id":85632185,
     "wof:placetype":"region",
