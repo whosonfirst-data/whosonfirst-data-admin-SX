@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lower_Princes",
     "iso:country":"SX",
+    "lbl:bbox":"-63.08517,18.01102,-63.04517,18.05102",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Welgelegen",
         "Welgeleden"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310124287,
-    "wof:lastmodified":1537701520,
+    "wof:lastmodified":1566651196,
     "wof:name":"Welgeleden",
     "wof:parent_id":85678229,
     "wof:placetype":"locality",
