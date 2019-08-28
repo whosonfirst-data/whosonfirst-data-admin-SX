@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lower_Princes",
     "iso:country":"SX",
+    "lbl:bbox":"-63.09656,18.01604,-63.05656,18.05604",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Orange Grove"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1226352211,
-    "wof:lastmodified":1564173094,
+    "wof:lastmodified":1566651200,
     "wof:name":"Orange Grove",
     "wof:parent_id":85678229,
     "wof:placetype":"locality",

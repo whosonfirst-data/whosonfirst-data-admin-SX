@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lower_Princes",
     "iso:country":"SX",
+    "lbl:bbox":"-63.05075,18.01277,-63.01075,18.05277",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Boven Prinsen",
         "Boven Prinsen Kwartier",
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293902049,
-    "wof:lastmodified":1537701520,
+    "wof:lastmodified":1566651193,
     "wof:name":"Upper Prince's Quarter",
     "wof:parent_id":85678229,
     "wof:placetype":"locality",

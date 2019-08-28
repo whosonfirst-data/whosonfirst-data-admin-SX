@@ -9,15 +9,18 @@
     "geom:bbox":"-63.06542,18.03868,-63.06542,18.03868",
     "geom:latitude":18.03868,
     "geom:longitude":-63.06542,
-    "gn:gn_country":"SX",
-    "gn:gn_fcode":"PPLL",
-    "gn:gn_pop":8467,
+    "gn:country":"SX",
+    "gn:fcode":"PPLL",
     "gn:population":8467,
     "iso:country":"SX",
+    "lbl:bbox":"-63.08542,18.01868,-63.04542,18.05868",
     "lbl:latitude":18.03868,
     "lbl:longitude":-63.06542,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Cul de Sac"
@@ -31,7 +34,7 @@
     "name:pol_x_preferred":[
         "Cul de Sac"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Duth Cul de Sac"
     ],
     "qs_pg:aaroncc":"SX",
@@ -46,7 +49,7 @@
     "qs_pg:qs_id":95824,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1125868499,
-    "wof:lastmodified":1561845095,
+    "wof:lastmodified":1566651198,
     "wof:name":"Cul de Sac",
     "wof:parent_id":85678229,
     "wof:placetype":"locality",

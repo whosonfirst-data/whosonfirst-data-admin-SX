@@ -18,6 +18,7 @@
     "mps:longitude":-63.113478,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0627\u0644\u0623\u0645\u064a\u0631\u0629 \u062c\u0648\u0644\u064a\u0627\u0646\u0627 \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
@@ -121,7 +122,7 @@
     "src:geom_alt":[
         "woedb"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424914,
         "planet_id":1,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":102553765,
-    "wof:lastmodified":1563919735,
+    "wof:lastmodified":1566651191,
     "wof:name":"Prinses Juliana International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",
