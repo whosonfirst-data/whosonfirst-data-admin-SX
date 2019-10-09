@@ -2,6 +2,7 @@
   "id": 85678229,
   "type": "Feature",
   "properties": {
+    "src:alt_label":"quattroshapes",
     "src:geom":"quattroshapes",
     "wof:geomhash":"a43ab88b11e75b6500bc4f373fbebe60",
     "wof:id":85678229
