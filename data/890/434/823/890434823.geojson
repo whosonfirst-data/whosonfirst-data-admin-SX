@@ -206,6 +206,9 @@
     },
     "wof:country":"SX",
     "wof:created":1469052041,
+    "wof:geom_alt":[
+        "unknown"
+    ],
     "wof:geomhash":"7773885db8cd1aaa95ef136283937f4c",
     "wof:hierarchy":[
         {
@@ -216,7 +219,7 @@
         }
     ],
     "wof:id":890434823,
-    "wof:lastmodified":1566651198,
+    "wof:lastmodified":1582344585,
     "wof:name":"Philipsburg",
     "wof:parent_id":85678229,
     "wof:placetype":"locality",

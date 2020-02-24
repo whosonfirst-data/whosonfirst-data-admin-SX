@@ -435,6 +435,9 @@
         "hasc:id":"SX.SM"
     },
     "wof:country":"SX",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"db863ab51065b2ef3deab356b1fedf14",
     "wof:hierarchy":[
         {
@@ -452,7 +455,7 @@
         "eng",
         "nld"
     ],
-    "wof:lastmodified":1566651192,
+    "wof:lastmodified":1582344585,
     "wof:name":"Sint Maarten",
     "wof:parent_id":85632185,
     "wof:placetype":"region",
