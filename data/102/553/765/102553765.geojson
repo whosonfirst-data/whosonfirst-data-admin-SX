@@ -140,6 +140,9 @@
         "wd:id":"Q723325"
     },
     "wof:country":"SX",
+    "wof:geom_alt":[
+        "woedb"
+    ],
     "wof:geomhash":"f7ad0f0aee9c9367789b205b18425a64",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":102553765,
-    "wof:lastmodified":1566651191,
+    "wof:lastmodified":1582344585,
     "wof:name":"Prinses Juliana International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",
