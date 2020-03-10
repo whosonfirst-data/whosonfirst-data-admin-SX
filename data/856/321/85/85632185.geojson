@@ -490,9 +490,7 @@
         890434823
     ],
     "wof:concordances":{
-        "digitalenvoy:country_code":[
-            534
-        ],
+        "digitalenvoy:country_code":534,
         "fips:code":"NN",
         "gn:id":7609695,
         "gp:id":56558058,
@@ -525,7 +523,7 @@
         "eng",
         "nld"
     ],
-    "wof:lastmodified":1583529227,
+    "wof:lastmodified":1583797436,
     "wof:name":"Sint Maarten",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
