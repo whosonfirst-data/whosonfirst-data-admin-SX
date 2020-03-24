@@ -5,7 +5,8 @@
     "src:alt_label":"woedb",
     "src:geom":"woedb",
     "wof:geomhash":"8313c2525040238645bb78ced0a8cf8f",
-    "wof:id":102553765
+    "wof:id":102553765,
+    "wof:repo":"whosonfirst-data-admin-sx"
 },
   "bbox": [
     -63.141258,
