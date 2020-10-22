@@ -505,7 +505,8 @@
     "wof:country_alpha3":"SXM",
     "wof:geom_alt":[
         "quattroshapes",
-        "naturalearth-display-terrestrial-zoom6"
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth"
     ],
     "wof:geomhash":"a3cde1faf5a61363ff4400ba9e8f9997",
     "wof:hierarchy":[
@@ -523,7 +524,7 @@
         "eng",
         "nld"
     ],
-    "wof:lastmodified":1583797436,
+    "wof:lastmodified":1603256401,
     "wof:name":"Sint Maarten",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
