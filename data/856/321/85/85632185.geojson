@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003184,
-    "geom:area_square_m":37431303.975564,
+    "geom:area_square_m":37431179.61555,
     "geom:bbox":"-63.139164,18.00511,-63.013638,18.064115",
     "geom:latitude":18.038975,
     "geom:longitude":-63.062679,
@@ -501,6 +501,9 @@
         "qs_pg:id":693867,
         "wd:id":"Q26273"
     },
+    "wof:coterminous":[
+        85678229
+    ],
     "wof:country":"SX",
     "wof:country_alpha3":"SXM",
     "wof:geom_alt":[
@@ -523,7 +526,7 @@
         "eng",
         "nld"
     ],
-    "wof:lastmodified":1583797436,
+    "wof:lastmodified":1607980639,
     "wof:name":"Sint Maarten",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
