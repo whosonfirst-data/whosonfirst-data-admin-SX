@@ -24,6 +24,18 @@
     "name:afr_x_preferred":[
         "Philipsburg"
     ],
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0644\u064a\u0628\u0633\u0628\u0648\u0631\u062c"
+    ],
+    "name:arg_x_preferred":[
+        "Philipsburg"
+    ],
+    "name:ary_x_preferred":[
+        "\u0641\u064a\u0644\u064a\u067e\u0633\u0628\u0648\u0631\u06ad"
+    ],
+    "name:arz_x_preferred":[
+        "\u0641\u064a\u0644\u064a\u0628\u0633\u0628\u0648\u0631\u062c"
+    ],
     "name:ast_x_preferred":[
         "Philipsburg"
     ],
@@ -32,6 +44,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0424\u0456\u043b\u0456\u043f\u0441\u0431\u0443\u0440\u0433"
+    ],
+    "name:bel_x_variant":[
+        "\u0424\u0456\u043b\u0456\u043f\u0441\u0431\u0443\u0440\u0433"
     ],
     "name:bos_x_preferred":[
         "Philipsburg"
@@ -46,6 +61,9 @@
         "Philipsburg"
     ],
     "name:ces_x_preferred":[
+        "Philipsburg"
+    ],
+    "name:cym_x_preferred":[
         "Philipsburg"
     ],
     "name:deu_x_preferred":[
@@ -78,6 +96,9 @@
     "name:fra_x_preferred":[
         "Philipsburg"
     ],
+    "name:gle_x_preferred":[
+        "Philipsburg"
+    ],
     "name:glg_x_preferred":[
         "Philipsburg"
     ],
@@ -87,7 +108,13 @@
     "name:hrv_x_preferred":[
         "Philipsburg"
     ],
+    "name:hye_x_preferred":[
+        "\u0556\u056b\u056c\u056b\u057a\u057d\u0562\u0578\u0582\u0580\u0563"
+    ],
     "name:ind_x_preferred":[
+        "Philipsburg"
+    ],
+    "name:isl_x_preferred":[
         "Philipsburg"
     ],
     "name:ita_x_preferred":[
@@ -102,11 +129,20 @@
     "name:kor_x_preferred":[
         "\ud544\ub9bd\uc2a4\ubdd4\ub974\ud750"
     ],
+    "name:lat_x_preferred":[
+        "Philippoburgum"
+    ],
+    "name:lav_x_preferred":[
+        "Filipsburga"
+    ],
     "name:lit_x_preferred":[
         "Filipsburgas"
     ],
     "name:lmo_x_preferred":[
         "Philipsburg"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0424\u0438\u043b\u0438\u043f\u0441\u0431\u0443\u0440\u0433"
     ],
     "name:nan_x_preferred":[
         "Philipsburg"
@@ -126,6 +162,9 @@
     "name:oci_x_preferred":[
         "Philipsburg"
     ],
+    "name:oss_x_preferred":[
+        "\u0424\u0438\u043b\u0438\u043f\u0441\u0431\u0443\u0440\u0433"
+    ],
     "name:pap_x_preferred":[
         "Philipsburg"
     ],
@@ -138,13 +177,22 @@
     "name:por_x_preferred":[
         "Philipsburg"
     ],
+    "name:ron_x_preferred":[
+        "Philipsburg"
+    ],
     "name:rus_x_preferred":[
         "\u0424\u0438\u043b\u0438\u043f\u0441\u0431\u0443\u0440\u0433"
     ],
     "name:sco_x_preferred":[
         "Philipsburg"
     ],
+    "name:slv_x_preferred":[
+        "Philipsburg"
+    ],
     "name:spa_x_preferred":[
+        "Philipsburg"
+    ],
+    "name:srd_x_preferred":[
         "Philipsburg"
     ],
     "name:srp_x_preferred":[
@@ -158,6 +206,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1f\u0e35\u0e25\u0e34\u0e1b\u0e2a\u0e4c\u0e1a\u0e37\u0e23\u0e4c\u0e04"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1f\u0e34\u0e25\u0e34\u0e1b\u0e2a\u0e4c\u0e1a\u0e37\u0e23\u0e4c\u0e04"
     ],
     "name:tur_x_preferred":[
         "Philipsburg"
@@ -176,6 +227,9 @@
     ],
     "name:war_x_preferred":[
         "Philipsburg"
+    ],
+    "name:wuu_x_preferred":[
+        "\u83f2\u5229\u666e\u65af\u5821"
     ],
     "name:zho_x_preferred":[
         "\u83f2\u5229\u666e\u65af\u5821"
@@ -221,7 +275,7 @@
         }
     ],
     "wof:id":890434823,
-    "wof:lastmodified":1607390891,
+    "wof:lastmodified":1690867110,
     "wof:name":"Philipsburg",
     "wof:parent_id":85678229,
     "wof:placetype":"locality",
