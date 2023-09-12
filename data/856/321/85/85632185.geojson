@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003184,
-    "geom:area_square_m":37431179.61555,
+    "geom:area_square_m":37431179.615543,
     "geom:bbox":"-63.139164,18.00511,-63.013638,18.064115",
     "geom:latitude":18.038975,
     "geom:longitude":-63.062679,
@@ -15,6 +15,9 @@
         "1-721"
     ],
     "itu:region":"1",
+    "label:eng_x_preferred_placetype":[
+        "country"
+    ],
     "label:eng_x_preferred_shortcode":[
         "SX"
     ],
@@ -578,7 +581,8 @@
     ],
     "src:geom_via":"us-dshiu",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"1-721",
     "statoids:ds":"",
     "statoids:fifa":"",
@@ -623,7 +627,7 @@
         "quattroshapes",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"a3cde1faf5a61363ff4400ba9e8f9997",
+    "wof:geomhash":"99328eaa3584127e4de212ecb6c8b132",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -639,12 +643,12 @@
         "eng",
         "nld"
     ],
-    "wof:lastmodified":1690867109,
+    "wof:lastmodified":1694492074,
     "wof:name":"Sint Maarten",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
-    "wof:population":37429,
-    "wof:population_rank":7,
+    "wof:population":40733,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-sx",
     "wof:shortcode":"SX",
     "wof:superseded_by":[],
