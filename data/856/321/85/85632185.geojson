@@ -582,7 +582,7 @@
     "src:geom_via":"us-dshiu",
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"1-721",
     "statoids:ds":"",
     "statoids:fifa":"",
@@ -643,7 +643,7 @@
         "eng",
         "nld"
     ],
-    "wof:lastmodified":1694492074,
+    "wof:lastmodified":1694639527,
     "wof:name":"Sint Maarten",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
