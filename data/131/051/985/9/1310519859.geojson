@@ -84,8 +84,13 @@
     "wof:concordances":{
         "gn:id":3513887
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6985386
+        ]
+    },
     "wof:country":"SX",
-    "wof:geomhash":"e6b31ad54e75b0debeabfc6f8ec08947",
+    "wof:geomhash":"cad48cf501cb71c39c4d6d3be8108ab3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -97,20 +102,22 @@
         }
     ],
     "wof:id":1310519859,
-    "wof:lastmodified":1566651197,
+    "wof:lastmodified":1706240666,
     "wof:name":"Bloomingdale",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343473451
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -63.03854000000001,
+    -63.03854,
     18.0636,
-    -63.03854000000001,
+    -63.03854,
     18.0636
 ],
-  "geometry": {"coordinates":[-63.03854000000001,18.0636],"type":"Point"}
+  "geometry": {"coordinates":[-63.03854,18.0636],"type":"Point"}
 }
